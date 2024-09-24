@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Priyanshu Shrivastav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FTibex88&psig=AOvVaw1aE5_h59oSWc5IlJXleQij&ust=1727254420533000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjz87ua24gDFQAAAAAdAAAAABAg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-shrivastav&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu-shrivastav" /> </p>
 
